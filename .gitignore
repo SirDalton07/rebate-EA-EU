@@ -1,0 +1,25 @@
+# MetaTrader Files
+*.ex4
+*.ex5
+*.log
+*.txt
+
+# Data Files
+rebate_log.csv
+*.csv
+*.dat
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backtest Results
+backtest_results/
+*.bak
