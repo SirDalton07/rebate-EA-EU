@@ -25,3 +25,6 @@
 // ==================== SLIPPAGE & SPREAD ====================
 #define MAX_SPREAD 3                // Maximum allowed spread in pips
 #define SLIPPAGE 3                  // Acceptable slippage in pips
+
+// ==================== POINT CONSTANT ====================
+#define POINT Point                 // MQL4/MQL5 compatibility
